@@ -79,8 +79,6 @@
                 </div>
                 <!-- /.col -->
               </div>
-             
-              <!-- /.row -->
 
               <div class="row">
                 <!-- accepted payments column -->
